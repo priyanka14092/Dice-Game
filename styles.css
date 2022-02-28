@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: #ff4c68;
+    font-family: cursive;
+    margin: 5%;
+}
+h1{
+    color: #fff;
+    font-size: 5rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+.row{
+    padding: 5%;
+}
+.column{
+    position: relative;
+    left: 100px;
+}
+.column2{
+    position: relative;
+    right: 100px;
+}
+.dice-img{
+    height: 200px;
+    width: 200px;
+    margin: 3%;
+}
